@@ -76,11 +76,11 @@ let playerEl = document.getElementById("player-el");
 // playerEl.textContent = playerName + ": $" + playerChips
 
 //Objects in JS
-let player = {
-  name: "Khushi",
-  chips: 200
-}
-playerEl.textContent = player.name + ": $" + player.chips
+// let player = {
+//   name: "Khushi",
+//   chips: 200
+// }
+// playerEl.textContent = player.name + ": $" + player.chips
 
 // 2. Use getRandomCard() to set the values of firstCard and secondCard
 let cards = [];
